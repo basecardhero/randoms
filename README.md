@@ -1,5 +1,7 @@
 # BaseCardHero - Randoms
 
+[![Build Status](https://travis-ci.com/basecardhero/randoms.svg?branch=master)](https://travis-ci.com/basecardhero/randoms)
+
 _This package was created for a project I am working on and does not fully support random.org services (or the way you may want it to). Feel free to add functionality by creating a pull request. See [contributing](CONTRIBUTING.md)._
 
 ## Installation
