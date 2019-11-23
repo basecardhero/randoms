@@ -22,7 +22,7 @@ before_script:
   - travis_retry composer update ${COMPOSER_FLAGS} --no-interaction --prefer-source
 
 script:
-  - composer all-coverage
+  - composer all:coverage
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
