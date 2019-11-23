@@ -9,5 +9,5 @@
 
     <arg name="extensions" value="php"/>
 
-    <config name="testVersion" value="7.1-"/>
+    <config name="testVersion" value="7.2-"/>
 </ruleset>
