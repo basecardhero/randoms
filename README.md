@@ -25,7 +25,7 @@ You will need to configure the [Random.org API Key](https://api.random.org/).
 require_once '/project/path/vendor/autoload.php';
 
 $apiKey = '00000000-0000-0000-0000-0000000000';
-$httpClient = new \GuzzleHttp\Client();
+$httpClient = new \BaseCardHero\Randoms\HttpClient();
 $randomOrgClient = new \BaseCardHero\Randoms\RandomOrg\Client($apiKey, $httpClient);
 ```
 
