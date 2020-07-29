@@ -7,3 +7,7 @@ All notable changes to `randoms` will be documented in this file
 - Introduced `BaseCardHero\Randoms\RandomOrg\Client` class.
     - `generateSignedIntegers()`
     - `getUsage()`
+
+## 0.0.2 - 2020-07-28
+- Composer package minor updates.
+- Added php version `7.4` to Travis config matrix.
