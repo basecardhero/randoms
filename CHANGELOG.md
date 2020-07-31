@@ -2,6 +2,9 @@
 
 All notable changes to `randoms` will be documented in this file
 
+## 0.3.0 - 2020-07-30
+- Updated `guzzlehttp/guzzle` to `^7.0.1`.
+
 ## 0.2.0 - 2020-07-28
 - Composer package minor updates.
 - Added php version `7.4` to Travis config matrix.
